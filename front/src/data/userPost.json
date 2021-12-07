@@ -1,0 +1,11 @@
+{
+  "name": "Jacques Gluke",
+  "location": "Ocho Rios, Jamaica",
+  "avatar": "https://image.flaticon.com/icons/png/512/145/145843.png",
+  "text": "React was created with a single focus: to create components for web applications. A React component can be anything in your web application like a Button, Text, Label, or Grid. But as React's popularity is grown, its ecosystem has also grown to cover various use cases.",
+  "stats": {
+    "followers": 5603,
+    "views": 4827,
+    "likes": 1308
+  }
+}
