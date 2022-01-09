@@ -1,4 +1,5 @@
 import { PostContainer } from 'containers/Post';
+import { ButtonContainer } from 'containers/Header';
 
 import user from 'data/userPost.json';
 
@@ -12,6 +13,7 @@ export const App = () => {
         text={user.text}
         stats={user.stats}
       />
+      <ButtonContainer />
     </>
   );
 };
